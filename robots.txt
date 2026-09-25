@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.zhihongwh.cn/sitemap.xml
